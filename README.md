@@ -1,5 +1,9 @@
 # vue-monaco-editor 编辑器组件使用
 
+https://microsoft.github.io/monaco-editor/
+https://habr.com/ru/company/Voximplant/blog/445390/
+https://github.com/Microsoft/monaco-editor
+
 ## 安装
 
 ### monaco-editor和monaco-editor-webpack-plugin安装
